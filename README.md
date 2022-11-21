@@ -1,17 +1,23 @@
 # Pandas Project - Analysing District School Board Data and Results 
-In this project, i have created and manipulated Pandas DataFrames to analyze school and test scores data.
+In this project, I have created and manipulated Pandas DataFrames to analyze school and test scores data.
 
 
 ## Background
 
 As a Chief Data Scientist for the city's school district, am helping the school board and mayor make strategic decisions regarding future school budgets and priorities.
 
-As a first task, haver analyze the district-wide standardized test results based on  every student's math and reading scores, as well as various information on the schools they attend. Data has been aggregated to showcase trends in school performance.
+As a first task, have analyzed the district-wide standardized test results based on  every student's math and reading scores, as well as various information on the schools they attend. Data has been aggregated to showcase trends in school performance.
 
 ## Some of the Results are as follows
 
-Created a report that includes the following data. Your report must include a written description of at least two observable trends based on the data.
-
+Based on the reports created below, we can observe some trends like:
+    -- Size of the school seems to be correlated to overall passing percentages after the 2000 students per school threshold, as passing percentage really drops meaningfully for these schools.
+     
+    -- Per student budget doesnt have the required effect on eductional results, we can see that the schools with the highest per student spending had the lowest pass percentages, even as this relation is not meaningful for the remaining categories as schools with lowest per student spend seem to perform better in academics. This observation cannot be fully conclusive without additional data on which schools focus more or acdemics or extra-curriculars etc.  
+    
+    -- It is quite clear that the Charter type schools have much higher pass percentages and a better overall academic record. 
+    
+    
 ### District Summary
 
 Created a high-level snapshot, in a DataFrame, of the district's key metrics, including the following:
