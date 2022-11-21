@@ -11,11 +11,11 @@ As a first task, have analyzed the district-wide standardized test results based
 ## Some of the Results are as follows
 
 Based on the reports created below, we can observe some trends like:
-    -- Size of the school seems to be correlated to overall passing percentages after the 2000 students per school threshold, as passing percentage really drops meaningfully for these schools.
+ - Size of the school seems to be correlated to overall passing percentages after the 2000 students per school threshold, as passing percentage really drops meaningfully for these schools.
      
-    -- Per student budget doesnt have the required effect on eductional results, we can see that the schools with the highest per student spending had the lowest pass percentages, even as this relation is not meaningful for the remaining categories as schools with lowest per student spend seem to perform better in academics. This observation cannot be fully conclusive without additional data on which schools focus more or acdemics or extra-curriculars etc.  
+ - Per student budget doesnt have the required effect on eductional results, we can see that the schools with the highest per student spending had the lowest pass percentages, even as this relation is not meaningful for the remaining categories as schools with lowest per student spend seem to perform better in academics. This observation cannot be fully conclusive without additional data on which schools focus more or acdemics or extra-curriculars etc.  
     
-    -- It is quite clear that the Charter type schools have much higher pass percentages and a better overall academic record. 
+ - It is quite clear that the Charter type schools have much higher pass percentages and a better overall academic record. 
     
     
 ### District Summary
