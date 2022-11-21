@@ -1,36 +1,20 @@
-# Unit 4 Homework: Pandas, Pandas, Pandas
-In this assignment, you’ll create and manipulate Pandas DataFrames to analyze school and standardized test data.
-
-
-## Before You Begin
-
-1. Create a new repository for this project called `pandas-challenge`. **Do not add this homework to an existing repository**.
-
-2. Clone the new repository to your computer.
-
-3. Inside your local Git repository, create a folder for this homework assignment and name the folder `PyCitySchools`.
-
-4. Add your Jupyter notebook to this folder. This will be the main script to run for analysis.
-
-5. Push these changes to GitHub or GitLab.
-
+# Pandas Project - Analysing District School Board Data and Results 
+In this project, i have created and manipulated Pandas DataFrames to analyze school and test scores data.
 
 
 ## Background
 
-Having spent years analyzing financial records for big banks, you've finally scratched your idealistic itch and joined the education sector. Your latest role is Chief Data Scientist for your city's school district. In this capacity, you'll be helping the school board and mayor make strategic decisions regarding future school budgets and priorities.
+As a Chief Data Scientist for the city's school district, am helping the school board and mayor make strategic decisions regarding future school budgets and priorities.
 
-As a first task, you've been asked to analyze the district-wide standardized test results. You'll be given access to every student's math and reading scores, as well as various information on the schools they attend. Your task is to aggregate the data to showcase obvious trends in school performance.
+As a first task, haver analyze the district-wide standardized test results based on  every student's math and reading scores, as well as various information on the schools they attend. Data has been aggregated to showcase trends in school performance.
 
-## Instructions
+## Some of the Results are as follows
 
-Using Pandas and Jupyter Notebook, create a report that includes the following data. Your report must include a written description of at least two observable trends based on the data.
-
-**Hint:** Check out a [sample solution](PyCitySchools/PyCitySchools_starter.ipynb) to review the desired format for this assignment.
+Created a report that includes the following data. Your report must include a written description of at least two observable trends based on the data.
 
 ### District Summary
 
-Create a high-level snapshot, in a DataFrame, of the district's key metrics, including the following:
+Created a high-level snapshot, in a DataFrame, of the district's key metrics, including the following:
 
 * Total schools
 * Total students
@@ -43,7 +27,7 @@ Create a high-level snapshot, in a DataFrame, of the district's key metrics, inc
 
 ### School Summary
 
-Create a DataFrame that summarizes key metrics about each school, including the following:
+Created a DataFrame that summarizes key metrics about each school, including the following:
 
 * School name
 * School type
@@ -58,7 +42,7 @@ Create a DataFrame that summarizes key metrics about each school, including the 
 
 ### Highest-Performing Schools (by % Overall Passing)
 
-Create a DataFrame that highlights the top 5 performing schools based on % Overall Passing. Include the following metrics:
+Created a DataFrame that highlights the top 5 performing schools based on % Overall Passing. Includes the following metrics:
 
 * School name
 * School type
@@ -74,7 +58,7 @@ Create a DataFrame that highlights the top 5 performing schools based on % Overa
 
 ### Lowest-Performing Schools (by % Overall Passing)
 
-Create a DataFrame that highlights the bottom 5 performing schools based on % Overall Passing. Include the following metrics:
+Created a DataFrame that highlights the bottom 5 performing schools based on % Overall Passing. Includes the following metrics:
 
 * School name
 * School type
@@ -97,7 +81,7 @@ Create a DataFrame that lists the average reading score for students of each gra
 
 ### Scores by School Spending
 
-Create a table that breaks down school performance based on average spending ranges (per student). Use your judgment to create four bins with reasonable cutoff values to group school spending. Include the following metrics in the table:
+Created a table that breaks down school performance based on average spending ranges (per student). Resultant metrics in the table:
 
 * Average math score
 * Average reading score
@@ -107,19 +91,11 @@ Create a table that breaks down school performance based on average spending ran
 
 ### Scores by School Size
 
-Create a table that breaks down school performance based on school size (small, medium, or large).
+Created a table that breaks down school performance based on school size (small, medium, or large).
 ### Scores by School Type
 
-Create a table that breaks down school performance based on type of school (district or charter).
+Created a table that breaks down school performance based on type of school (district or charter).
 
-### Submission
-On [Bootcamp Spot](https://bootcampspot-v2.com), submit a link to the `pandas-challenge` repo that you created for this assignment. Be sure to include a `README.md` file in addition to the Jupyter Notebook that contains your report.
-
-## Rubric
-
-[Unit 4 Homework Rubric](https://docs.google.com/document/d/1VwP0gfKN-ZGZvIhuaKmx00wCcPOMC5qofXXFcUGe90E/edit?usp=sharing)
-
-- - -
 
 ## References
 
@@ -128,3 +104,4 @@ Data generated by Mockaroo, LLC. (2021) Realistic Data Generator. [https://www.m
 - - -
 
 © 2022 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+
